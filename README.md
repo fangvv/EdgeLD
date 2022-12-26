@@ -10,6 +10,17 @@ This work has been published by IEEE HPCC 2020 [link](https://ieeexplore.ieee.or
 
 PyTorch
 
+## Citation
+
+    @inproceedings{xue2020edgeld,
+    title={Edgeld: Locally distributed deep learning inference on edge device clusters},
+    author={Xue, Feng and Fang, Weiwei and Xu, Wenyuan and Wang, Qi and Ma, Xiaodong and Ding, Yi},
+    booktitle={2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)},
+    pages={613--619},
+    year={2020},
+    organization={IEEE}
+  }
+
 ## Contact
 
 Feng Xue (17120431@bjtu.edu.cn)
