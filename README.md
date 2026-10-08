@@ -97,6 +97,10 @@ cd 项目代码/EdgeMI
 python node_test/namenode_0.py
 ```
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 If you find EdgeLD useful or relevant to your project and research, please kindly cite our paper:
 	@inproceedings{xue2020edgeld,
